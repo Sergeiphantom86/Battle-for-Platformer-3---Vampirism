@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 73ec38ab73e31ff4f84c4061205514f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _coinsPrefab: {fileID: 2462294072479595517, guid: 8f1d2bb0495b1e5489df042a5f75b1d5, type: 3}
+  - _applePrefab: {fileID: 5420840173260727173, guid: 78b1c883d0025d849a760a46254412af, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
